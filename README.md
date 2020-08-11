@@ -1,2 +1,2 @@
 # amazon-scraping
-Contains Python scripts that scrape data from Amazon.com
+Contains Python scripts that scrape data from Amazon
